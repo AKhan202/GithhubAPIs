@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1316" started-at="2018-12-06T04:31:52Z" finished-at="2018-12-06T04:31:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1316" started-at="2018-12-06T04:31:52Z" finished-at="2018-12-06T04:31:53Z">
+      <class name="com.qa.githubAPI.tests.GetAPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.githubAPI.tests.GetAPITest@2a2d45ba]" name="setUp" is-config="true" duration-ms="7" started-at="2018-12-06T04:31:52Z" finished-at="2018-12-06T04:31:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTest()[pri:0, instance:com.qa.githubAPI.tests.GetAPITest@2a2d45ba]" name="getTest" duration-ms="1273" started-at="2018-12-06T04:31:52Z" finished-at="2018-12-06T04:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+      </class> <!-- com.qa.githubAPI.tests.GetAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
